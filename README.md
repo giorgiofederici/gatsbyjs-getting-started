@@ -1,3 +1,3 @@
 # gatsbyjs-getting-started
 
-[GatsbyJS Getting Started on Surge.sh](https://www.google.com)
+[GatsbyJS Getting Started on Surge.sh](http://gf-gatsbyjs-getting-started.surge.sh)
